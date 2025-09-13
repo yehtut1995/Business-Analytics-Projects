@@ -10,6 +10,8 @@ The process flow includes:
 •	Processing payment
 •	Fulfilling and delivering the order
 Decision points (e.g., order correctness) and outcomes (e.g., order rejection) are explicitly modeled. This process map served as the foundation for identifying requirements and system interactions.
+<img width="1040" height="1282" alt="Order Managment Process" src="https://github.com/user-attachments/assets/77b1e16d-3e3a-4472-aabd-3b4ca6aafb4b" />
+Fig. Order Management Process
 
 ### 2. Requirement Gathering
 Requirements were derived from the mapped business process.
