@@ -1,4 +1,4 @@
-### Overview
+### Project Overview
 
 This project describes the Order Management Process, which enables customers to request services, sales assistants to validate and place orders, and stock supervisors to fulfill them. The process ensures that only validated and paid orders are delivered to customers, maintaining operational efficiency and data accuracy. First, relevant stakeholders are described briefly. Then, it has been developed using 4 core activities:
 
