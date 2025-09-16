@@ -1,6 +1,6 @@
 ### Overview
 
-This project demonstrates the use of UML modeling to represent the Patient Investigation and Treatment Process in a Clinic. The diagrams illustrate how a clinic manages patient care from registration to treatment and follow-up, showcasing typical workflows and system interactions.
+This project demonstrates the use of UML modeling to represent the Patient Investigation and Treatment Process in a Clinic. The diagrams illustrate how a clinic manages patient care from registration to treatment and follow-up, showcasing typical workflows and system interactions. They are illustrated by using Lucidchart.
 
 The portfolio includes:
 
