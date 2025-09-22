@@ -12,7 +12,7 @@ This project demonstrates the design of a dog ownership and management system, s
 ### Textual Description of Dog Breeding and Ownership Relational Database Schema
 The textual representation below provides a structured description of the database schema, listing each table, its attributes, and the relationships or constraints (such as primary keys, foreign keys, and alternate keys) that enforce the integrity of the model.
 •	Person (Name, Address)
-•	Organization (Organization Name)
+•	Organization (Organization Name)   
 •	Workplace (Workplace Name, Employee Name) Workplace.Employee Name is foreign key towards Person.Name . Workplace.Workplace Name is foreign key towards Organization.OrgName .
 •	Ownership (From, Owner Id, Dog Name, Owner Name), Ownership.Dog Name is foreign key towards Dog.Dog Name. Ownership.Owner Name is foreign key towards Person.Name.  Dog Name and Owner Name are alternate keys.
 •	Dog (Dog Name, Champion, Dog Type), Dog.Dog Type is foreign key towards Breed.Dog Type. Dog Type is alternate key.
