@@ -1,4 +1,4 @@
-This profolio projects showcase
+These profolio projects showcase
 - business process mapping & modelling, UML activity and class diagrams   
 - requirment gathering & engineering     
 - identifying use cases, user stories, acceptance criteria  
